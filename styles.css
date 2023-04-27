@@ -8,11 +8,12 @@
 	margin-bottom:30px;
 }
 .link-boxes{
+	border:2px solid yellow;
 	color:white;
-	display:flex;
-	justiify-content:space-around;
+ display:flex;
 }
 .link-boxes a{
 	text-decoration:none;
-	color:white;
+	display:flex;
+	//color:white;
 }
