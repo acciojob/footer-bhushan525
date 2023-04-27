@@ -1,1 +1,13 @@
 /* your code here */
+.content{
+	background-color:black;
+	padding:15px 20px 0px 20px;
+	height:300px;
+}
+.link-boxes{
+	color:white;
+	text-decoration:none;
+	display:flex;
+	flex-direction:row;
+	justiify-content:space-between
+}
