@@ -6,14 +6,20 @@
 }
 .logo-details{
 	margin-bottom:30px;
+	font-size:20px;
+	font-weight:bolder;
 }
 .link-boxes{
 	border:2px solid yellow;
 	color:white;
- display:flex;
+    display:flex;
+}
+.link-boxes span{
+	text-decoration:underline;
 }
 .link-boxes a{
 	text-decoration:none;
 	display:flex;
-	//color:white;
+	color:rgb(192, 192, 192);
+	
 }
