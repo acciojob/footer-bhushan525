@@ -2,7 +2,11 @@
 .content{
 	background-color:black;
 	padding:15px 20px 15px 20px;
-	height:300px;
+	//height:300px;
+}
+.top{
+	border:2px solid yellow;
+	margin-bottom:20px;
 }
 .logo-details{
 	margin-bottom:30px;
@@ -10,8 +14,8 @@
 	font-weight:bolder;
 }
 .link-boxes{
-	
 	color:white;
+	margin-bottom:20px;
     display:flex;
 	justify-content:space-between;
 }
@@ -22,7 +26,6 @@
 	text-decoration:none;
 	display:flex;
 	color:rgb(192, 192, 192);
-	
 }
 .bottom-details{
 	padding:10px 50px 10px 20px;
