@@ -1,7 +1,7 @@
 /* your code here */
 .content{
 	background-color:black;
-	padding:15px 20px 0px 20px;
+	padding:15px 20px 15px 20px;
 	height:300px;
 }
 .logo-details{
@@ -10,9 +10,10 @@
 	font-weight:bolder;
 }
 .link-boxes{
-	border:2px solid yellow;
+	
 	color:white;
     display:flex;
+	justify-content:space-between;
 }
 .link-boxes span{
 	text-decoration:underline;
@@ -22,4 +23,12 @@
 	display:flex;
 	color:rgb(192, 192, 192);
 	
+}
+.bottom-details{
+	padding:10px 50px 10px 20px;
+	color:rgb(192, 192, 192);
+	background-color:rgb(44, 48, 59);
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
 }
