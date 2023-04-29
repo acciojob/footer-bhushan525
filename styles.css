@@ -38,8 +38,10 @@
   background: rgb(226, 48, 108);
   color: white;
 }
+.media-icons{
+	display:flex;
+}
 .top{
-	
 	display:flex;
 	justify-content:space-between;
 	margin-bottom:20px;
